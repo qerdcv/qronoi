@@ -1,0 +1,17 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    padding: 10px 20%;
+}
+
+.input {
+    height: 40px;
+    margin: 10px 0;
+}
+
+.img {
+    margin: 50px;
+    width: 500px;
+    height: auto;
+}
